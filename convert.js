@@ -1,3 +1,4 @@
+
 function convertirCF() {
     let CF = prompt("A què vols convertir C/F?");
     let temp = parseFloat(prompt("Temperatura:"));
